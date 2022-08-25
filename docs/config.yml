@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 title: COVID-19 Case and Death Rates in Massachusetts
 description: >-
   Visualization of data taken by the DPH and CDC of new COVID-19 cases in the state of Massachusetts as well as nationwide. Trends of COVID cases depending 
